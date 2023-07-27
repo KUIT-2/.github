@@ -68,10 +68,19 @@ PM 파트의 목표
 #### Stack
 
 #### Tool
+
+<br>
+
+### [Design]()
+#### Goal
+
+#### Stack
+
+#### Tool
 ![Figma](https://img.shields.io/badge/figma-%232E2E2E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <br><br>
 
 ## Team Project
 러프한 팀 프로젝트 관련 소개
-없애도 무관함
