@@ -1,5 +1,5 @@
 # KUIT 2기 Organization
-![KUIT Web](https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge)
+<a href="/"><img src="https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge"/></a>
 
 위 배지를 통해 웹사이트에 방문하면 KUIT에 대한 다양한 정보를 접할 수 있습니다!
 
