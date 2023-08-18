@@ -1,8 +1,9 @@
 # KUIT 2기 Organization
+<!--
 <a href="/"><img src="https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge"/></a>
 
 위 배지를 통해 웹사이트에 방문하면 KUIT에 대한 다양한 정보를 접할 수 있습니다!
-
+-->
 
 <br>
 
@@ -37,17 +38,6 @@ Android 파트의 목표
 
 <br>
 
-### [iOS]()
-#### Goal
-iOS 파트의 목표
-
-#### Stack 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-#### Tool
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-<br>
-
 ### [Server]()
 #### Goal
 Server 파트의 목표
@@ -69,18 +59,23 @@ PM 파트의 목표
 
 #### Tool
 
-<br>
-
-### [Design]()
-#### Goal
-
-#### Stack
-
-#### Tool
-![Figma](https://img.shields.io/badge/figma-%232E2E2E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 <br><br>
 
 ## Team Project
 러프한 팀 프로젝트 관련 소개
+
+<br>
+
+<!--
+
+### [iOS]()
+#### Goal
+iOS 파트의 목표
+
+#### Stack 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+#### Tool
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+-->
