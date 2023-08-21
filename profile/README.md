@@ -76,7 +76,7 @@ KUIT 서버 파트는 **단순한 지식 전달이 아닌, 실제 개발 능력�
 
 <br>
 
-### Project Management
+### Product Manager
 #### Goal
 
 **?**
